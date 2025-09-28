@@ -6,7 +6,7 @@ English version:
 
 <img width="574" height="355" alt="image" src="https://github.com/user-attachments/assets/7be1b71d-a5f4-428c-b019-9249635319aa" />
 
-2. Keeping the three documents "depressed_5000.json", "normal_5000.json" and "model.py" in the same file (or you will need to change the code by your hand)
+2. Keeping the three documents "depressed_5000.json", "normal_5000.json" and "model_LMILAtt.py" in the same file (or you will need to change the code by your hand). Please ignore the document "model.py".
    
 3. Running the program directly
    
@@ -19,7 +19,7 @@ English version:
 
 <img width="574" height="355" alt="image" src="https://github.com/user-attachments/assets/7be1b71d-a5f4-428c-b019-9249635319aa" />
 
-2.保持文件“depressed_5000.json”，“normal_5000.json”以及“model.py”在同一目录下（否则你可能需要手动修改代码)
+2.保持文件“depressed_5000.json”，“normal_5000.json”以及“model_LMILAtt.py”在同一目录下（否则你可能需要手动修改代码)。请忽略文件"model.py"。
 
 3.直接运行程序
 
